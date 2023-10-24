@@ -103,10 +103,6 @@ Enfasis_en_Concurrencia_y_Canales:
     - Descripcion: "Los canales se utilizan para la comunicación entre jugadores y el tablero."
     - Uso: "Cada jugador tiene un canal para enviar y recibir información del tablero. Esto garantiza que los movimientos de los jugadores se manejen de manera sincronizada y que un jugador no pueda moverse fuera de su turno."
 
-Conclusión:
-  - "La implementación del juego Ludo modificado en Go demuestra la potencia y flexibilidad de la programación concurrente. A través de este proyecto, hemos aprendido cómo manejar múltiples goroutines, sincronizar el acceso a recursos compartidos y comunicarnos entre diferentes partes del programa usando canales."
-
-
 ### Conclusión:
 
 La implementación del juego Ludo modificado en Go demuestra la potencia y flexibilidad de la programación concurrente. A través de este proyecto, hemos aprendido cómo manejar múltiples goroutines, sincronizar el acceso a recursos compartidos y comunicarnos entre diferentes partes del programa usando canales.
